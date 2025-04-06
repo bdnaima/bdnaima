@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Naima Malik! 
 <p align="left">
-    <img src="Naima_Bollywood.jpg" alt="imageOfNaima" width="80" height="80"/>
+    <img src="/bdnaima/Naima_Bollywood.jpg" alt="imageOfNaima" width="80" height="80"/>
 </p>
 
 I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, UX/UI Design, and recently UX/UI Design with AI. I'm always excited to learn new technologies and collaborate on exciting projects.
