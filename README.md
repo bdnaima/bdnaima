@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bdnaima/bdnaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
 ## About Me 😄
 
 Hi, I'm Naima Malik! 
-<p align="left">
-    <img src="https://octodex.github.com/hulatocat/" alt="imageOfNaima" width="80" height="80"/>
+<p>
+    <img src="https://octodex.github.com/femalecodertocat/" alt="imageOfAvatar"/>
 </p>
 
 I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, UX/UI Design, and recently UX/UI Design with AI. I'm always excited to learn new technologies and collaborate on exciting projects.
@@ -49,11 +47,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/naima-mar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </p>
