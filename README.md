@@ -72,7 +72,7 @@ These projects showcase my background in UX/UI design, user research, and fronte
 Explore my design case studies, prototypes, and research projects:
 - 👉 https://past-prototyper-457365.framer.app/
 
-- ## 🚧 Currently Building
+## 🚧 Currently Building
 
 - Learning ASP.NET Core
 - Building APIs with C#
