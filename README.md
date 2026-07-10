@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 😄
+## About Me 😊
 
 Hi, I'm Naima! 
 <p>
