@@ -66,11 +66,11 @@ I'm currently studying Full-Stack .NET Development while building on my backgrou
 
 ## 🚀 Featured Projects
 
-These projects reflect my background in UX/UI design and frontend development. I'm currently expanding my portfolio with full-stack .NET applications as I progress through my studies.
+These projects showcase my background in UX/UI design, user research, and frontend development. I'm currently expanding my portfolio with full-stack .NET applications as I progress through my studies.
 
-- 📝 [aCareHub - A platform for psychologists to manage bookings and clients](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
-- 📖 [Dance Community - A website designed to help people interested in dance and explore different dances and book classes](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
-- 🗒️ [Bring To Light - A website for a client who needed a profile website for her counselling company](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+🎨 **UX/UI Design Portfolio**
+Explore my design case studies, prototypes, and research projects:
+👉 https://past-prototyper-457365.framer.app/
 
 - ## 🚧 Currently Building
 
