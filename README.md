@@ -68,9 +68,9 @@ I'm currently studying Full-Stack .NET Development while building on my backgrou
 
 These projects showcase my background in UX/UI design, user research, and frontend development. I'm currently expanding my portfolio with full-stack .NET applications as I progress through my studies.
 
-🎨 **UX/UI Design Portfolio**
+- 🎨 **UX/UI Design Portfolio**
 Explore my design case studies, prototypes, and research projects:
-👉 https://past-prototyper-457365.framer.app/
+- 👉 https://past-prototyper-457365.framer.app/
 
 - ## 🚧 Currently Building
 
