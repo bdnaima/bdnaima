@@ -2,7 +2,7 @@
 **bdnaima/bdnaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,31 +15,74 @@ Here are some ideas to get you started:
 
 ## About Me 😄
 
-Hi, I'm Naima Malik! 
+Hi, I'm Naima! 
 <p>
     <img src="https://octodex.github.com/images/femalecodertocat.png" alt="imageOfAvatar" width="200"/>
 </p>
 
-I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, UX/UI Design, and recently UX/UI Design with AI. I'm always excited to learn new technologies and collaborate on exciting projects.
+I'm currently studying Full-Stack .NET Development while building on my background in web development and UX/UI design. I enjoy building modern applications from end to end—from designing intuitive user interfaces to developing backend APIs, working with databases, and connecting everything into a complete full-stack solution.
 
 
-- 🌱 I’m currently exploring **UX/UI Design** and **AI**.
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 💬 Ask me about **JavaScript**, **React**, and **Framer**.
+- 🌱 I'm currently studying **Full-Stack .NET Development**.
+- 💻 Currently learning **C#, ASP.NET Core, Entity Framework Core, MySQL, and REST APIs**.
+- 🎯 Looking for a **LIA / internship** where I can continue growing as a .NET developer.
+- 💬 Happy to chat about web development, React, C#, UX/UI design, and learning .NET.
 - 📫 How to reach me: [naima.maria.malik@gmail.com]
-- ⚡ Fun fact: I have been a professional Bollywood dancer for 16 years! 💃🏻
+- ⚡ Fun fact: I have been a professional Bollywood dancer for 17 years! 💃🏻
 
-## 📚 My Writing & Content
+## 🎯 Current Focus
 
-I also enjoy working on UX/UI Design projects. Here are some of my latest projects:
+- 📚 Studying Full-Stack .NET Development
+- 🛠️ Building full-stack applications with C#, ASP.NET Core, React, and MySQL
+- 🌱 Learning Entity Framework Core and ASP.NET Core
 
-- 📝 [aCareHub - A platform for psyhologist to manage bookings and clients](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
+## 💻 Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- CSS Animations
+- JavaScript
+- TypeScript
+- React
+
+**Backend**
+- C#
+- .NET
+- ASP.NET Core
+- REST APIs
+
+**Database**
+- MySQL
+- SQL
+- Entity Framework Core (currently learning)
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Figma
+- Framer Motion
+
+## 🚀 Featured Projects
+
+These projects reflect my background in UX/UI design and frontend development. I'm currently expanding my portfolio with full-stack .NET applications as I progress through my studies.
+
+- 📝 [aCareHub - A platform for psychologists to manage bookings and clients](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
 - 📖 [Dance Community - A website designed to help people interested in dance and explore different dances and book classes](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
-- 🗒️ [Bring To Light - A website for a client who needed a profile website for her coumselling company](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+- 🗒️ [Bring To Light - A website for a client who needed a profile website for her counselling company](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+
+- ## 🚧 Currently Building
+
+- Learning ASP.NET Core
+- Building APIs with C#
+- Working with MySQL databases
+- Exploring Entity Framework Core
+- Preparing for my Full-Stack .NET final project
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/naima-maria-malik-6471ba82/) or check out my [personal website](https://naima-s-portfolio.web.app/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/naima-maria-malik-6471ba82/) or check out my [personal website](https://my-upgraded-portfolio-silk.vercel.app/).
 
 ## 🛠️ Tools I Use
 
